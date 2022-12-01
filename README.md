@@ -10,7 +10,7 @@ Sobre mim:
 - 📫  pretendo futuramente estudar react e typescript
 ##
 
-<a href= "https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href= "https://github.com/ivanoliveiira/github-readme-stats#gh-dark-mode-only">
   <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=ivanoliveiira&show_icons=true&theme=dark#gh-dark-mode-only" />
    </a>
 
