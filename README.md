@@ -1,5 +1,5 @@
 ### Olá! Bem vindo.
-Pode me chamar de Ivan, estou em fase de transição pra area de programação.
+Pode me chamar de Ivan, atualmente estou em fase de transição pra area de programação.
 Iniciei os estudos em maio desse ano com o objetivo de aprender tecnologias ligadas ao front end
 ##
 Sobre mim:
