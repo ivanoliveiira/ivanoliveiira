@@ -11,16 +11,16 @@ Sobre mim:
 ##
 
 <a href= "https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width="42%"  src="https://github-readme-stats.vercel.app/api?username=ivanoliveiira&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=ivanoliveiira&show_icons=true&theme=dark#gh-dark-mode-only" />
    </a>
 
 <a href="https://github.com/ivanoliveiira/github-readme-stats#gh-light-mode-only">
-  <img width="41%"  src="https://github-readme-stats.vercel.app/api?username=ivanoliveiira&show_icons=true&theme=default#gh-light-mode-only" />
+  <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=ivanoliveiira&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
 
 
 <a href="https://github.com/ivanoliveiira/github-readme-stats">
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanoliveiira&layout=compact&theme=dark"
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanoliveiira&layout=compact&theme=dark"
 </a>
 
 ##
