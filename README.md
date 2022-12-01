@@ -15,12 +15,12 @@ Sobre mim:
    </a>
 
 <a href="https://github.com/ivanoliveiira/github-readme-stats#gh-light-mode-only">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=ivanoliveiira&show_icons=true&theme=default#gh-light-mode-only" />
+  <img width="41%"  src="https://github-readme-stats.vercel.app/api?username=ivanoliveiira&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
 
 
 <a href="https://github.com/ivanoliveiira/github-readme-stats">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanoliveiira&layout=compact&theme=dark"
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanoliveiira&layout=compact&theme=dark"
 </a>
 
 ##
