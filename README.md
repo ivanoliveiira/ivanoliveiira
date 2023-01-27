@@ -5,8 +5,8 @@ Iniciei os estudos em maio desse ano com o objetivo de aprender tecnologias liga
 Sobre mim:
 
 - 🌱  Estudando javascript no momento
-- 🔭  Gosto aprender coisas novas
-- 🎮  adoro jogar no tempo livre
+- 🔭  Adoro aprender coisas novas
+- 🎮  Gosto de jogar no tempo livre
 - 📫  pretendo futuramente estudar react e typescript
 ##
 
