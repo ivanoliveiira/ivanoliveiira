@@ -4,10 +4,10 @@ Iniciei os estudos em maio desse ano com o objetivo de aprender tecnologias liga
 ##
 Sobre mim:
 
-- 🌱  Estudando javascript no momento
+- 🌱  Estudando reactjs no momento
 - 🔭  Adoro aprender coisas novas
 - 🎮  Gosto de jogar no tempo livre
-- 📫  pretendo futuramente estudar react e typescript
+- 📫  pretendo futuramente estudar typescript
 ##
 
 <a href= "https://github.com/ivanoliveiira/github-readme-stats#gh-dark-mode-only">
